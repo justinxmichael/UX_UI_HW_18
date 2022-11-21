@@ -1,0 +1,89 @@
+.NavigationButtons {
+    display: flex;
+    align-items: flex-start;
+    color: #C1B19B;
+    font: 40px 'News Cycle';
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logo {
+    width: 1px;
+    height: 1px;
+    size: 1px;
+    padding: 1%;
+}
+
+content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+ul {
+    width: 50%;
+    margin-left: auto;
+    list-style-type: none;
+    margin: 25px 50px 5px 10px;
+    padding: 1;
+    position: relative;
+}
+
+li {
+    padding: 10px;
+    color: #C1B19B;
+    font-family: 'News Cycle';
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+img {
+    height: 500px;
+    width: 100%;
+    position: static;
+}
+
+body {
+    background-color: #1E1E1E;
+}
+
+.hero-text {
+    text-align: right;
+    position: static;
+    top: 8px;
+    right: 16px;
+    
+}
+h1 {
+    color: #C1B19B;
+    font-family: 'News Cycle';
+    font-size: 80px;
+}
+
+h2 {
+    color: #C1B19B;
+    font-family: 'News Cycle';
+    font-size: 44px;
+}
+p {
+    color: #C1B19B;
+    font: 20px 'Oxygen', sans-serif;
+}
+
+}
+footer {
+    color:#C1B19B;
+    font: 20px 'Oxygen', sans-serif;
+    background-color: #373738;
+}
+
+ul.footer {
+    padding: center;
+    display: inline-block;
+    vertical-align: top;
+}
+li.footer {
+    padding: center;
+}
